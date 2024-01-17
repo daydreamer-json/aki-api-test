@@ -1,0 +1,227 @@
+result:
+  currentStep: 7
+  region: jp
+  uri: https://jp.akinator.com
+  urlApiWs: https://srv15.akinator.com:9516/ws
+  progress: 98.5163
+  guessCount: 1
+  childMode:
+    childMod: false
+    softConstraint: ""
+    questionFilter: ""
+  config: {}
+  question: Manchesterでプレイしていた事がある?
+  answers:
+    - id: "252353"
+      name: 白上フブキ
+      id_base: "6301984"
+      proba: "0.981869"
+      description: VTuber ホロライブ１期生
+      valide_contrainte: "1"
+      ranking: "267"
+      pseudo: X
+      picture_path: partenaire/w/6301984__270123910.jpg
+      corrupt: "0"
+      relative: "0"
+      award_id: "-1"
+      flag_photo: 0
+      absolute_picture_path: https://photos.clarinea.fr/BL_16_jp/600/partenaire/w/6301984__270123910.jpg
+      nsfw: false
+  uriObj:
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+  uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+  frontaddr: MTUxLjgwLjM2LjEzOA==
+  session: "110"
+  signature: "229652670"
+  challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+progress:
+  - currentStep: 0
+    region: jp
+    uri: https://jp.akinator.com
+    urlApiWs: https://srv15.akinator.com:9516/ws
+    progress: 0
+    guessCount: 0
+    childMode:
+      childMod: false
+      softConstraint: ""
+      questionFilter: ""
+    config: {}
+    question: Youtuber？
+    answers:
+      - はい
+      - いいえ
+      - 分からない
+      - たぶんそう部分的にそう
+      - たぶん違う そうでもない
+    uriObj:
+      uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+      frontaddr: MTUxLjgwLjM2LjEzOA==
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+    session: "110"
+    signature: "229652670"
+    challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+    userSelectAnswer: 0
+  - currentStep: 1
+    region: jp
+    uri: https://jp.akinator.com
+    urlApiWs: https://srv15.akinator.com:9516/ws
+    progress: 17.0644
+    guessCount: 0
+    childMode:
+      childMod: false
+      softConstraint: ""
+      questionFilter: ""
+    config: {}
+    question: 男性？
+    answers:
+      - はい
+      - いいえ
+      - 分からない
+      - たぶんそう部分的にそう
+      - たぶん違う そうでもない
+    uriObj:
+      uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+      frontaddr: MTUxLjgwLjM2LjEzOA==
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+    session: "110"
+    signature: "229652670"
+    challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+    userSelectAnswer: 1
+  - currentStep: 2
+    region: jp
+    uri: https://jp.akinator.com
+    urlApiWs: https://srv15.akinator.com:9516/ws
+    progress: 25.0404
+    guessCount: 0
+    childMode:
+      childMod: false
+      softConstraint: ""
+      questionFilter: ""
+    config: {}
+    question: 顔を公開してますか？
+    answers:
+      - はい
+      - いいえ
+      - 分からない
+      - たぶんそう部分的にそう
+      - たぶん違う そうでもない
+    uriObj:
+      uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+      frontaddr: MTUxLjgwLjM2LjEzOA==
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+    session: "110"
+    signature: "229652670"
+    challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+    userSelectAnswer: 1
+  - currentStep: 3
+    region: jp
+    uri: https://jp.akinator.com
+    urlApiWs: https://srv15.akinator.com:9516/ws
+    progress: 32.9302
+    guessCount: 0
+    childMode:
+      childMod: false
+      softConstraint: ""
+      questionFilter: ""
+    config: {}
+    question: Hで始まるグループに所属していますか？
+    answers:
+      - はい
+      - いいえ
+      - 分からない
+      - たぶんそう部分的にそう
+      - たぶん違う そうでもない
+    uriObj:
+      uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+      frontaddr: MTUxLjgwLjM2LjEzOA==
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+    session: "110"
+    signature: "229652670"
+    challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+    userSelectAnswer: 0
+  - currentStep: 4
+    region: jp
+    uri: https://jp.akinator.com
+    urlApiWs: https://srv15.akinator.com:9516/ws
+    progress: 57.6531
+    guessCount: 0
+    childMode:
+      childMod: false
+      softConstraint: ""
+      questionFilter: ""
+    config: {}
+    question: 動物がモデルですか？
+    answers:
+      - はい
+      - いいえ
+      - 分からない
+      - たぶんそう部分的にそう
+      - たぶん違う そうでもない
+    uriObj:
+      uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+      frontaddr: MTUxLjgwLjM2LjEzOA==
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+    session: "110"
+    signature: "229652670"
+    challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+    userSelectAnswer: 0
+  - currentStep: 5
+    region: jp
+    uri: https://jp.akinator.com
+    urlApiWs: https://srv15.akinator.com:9516/ws
+    progress: 72.8098
+    guessCount: 0
+    childMode:
+      childMod: false
+      softConstraint: ""
+      questionFilter: ""
+    config: {}
+    question: 狐(キツネ)?
+    answers:
+      - はい
+      - いいえ
+      - 分からない
+      - たぶんそう部分的にそう
+      - たぶん違う そうでもない
+    uriObj:
+      uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+      frontaddr: MTUxLjgwLjM2LjEzOA==
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+    session: "110"
+    signature: "229652670"
+    challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+    userSelectAnswer: 0
+  - currentStep: 6
+    region: jp
+    uri: https://jp.akinator.com
+    urlApiWs: https://srv15.akinator.com:9516/ws
+    progress: 94.9156
+    guessCount: 0
+    childMode:
+      childMod: false
+      softConstraint: ""
+      questionFilter: ""
+    config: {}
+    question: 毛が白い？
+    answers:
+      - はい
+      - いいえ
+      - 分からない
+      - たぶんそう部分的にそう
+      - たぶん違う そうでもない
+    uriObj:
+      uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+      frontaddr: MTUxLjgwLjM2LjEzOA==
+    uid: 9dac0b16-b585-11ee-a88c-0242f84cd25f
+    frontaddr: MTUxLjgwLjM2LjEzOA==
+    session: "110"
+    signature: "229652670"
+    challenge_auth: 908bcca1-8358-4984-9d05-51a401a5ca5f
+    userSelectAnswer: 0

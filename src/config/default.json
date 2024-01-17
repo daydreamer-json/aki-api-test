@@ -1,0 +1,20 @@
+{
+  "base": {
+    "applicationName": "aki-api-test",
+    "applicationCopyrightShort": "(C) 2023 daydreamer-json",
+    "applicationVersionNumber": "0.0.1",
+    "spinnerSeq": ["⠋","⠙","⠹","⠸","⠼","⠴","⠦","⠧","⠇","⠏"]
+  },
+  "aki": {
+    "inferenceStepLimitDefault": 60,
+    "inferenceProgressLimitDefault": 95
+  },
+  "network": {
+    "userAgent": {
+      "chromeWindows": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "curl": "curl/8.4.0",
+      "curlUnity": "UnityPlayer/2021.3.14f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)"
+    },
+    "timeout": 15000
+  }
+}
